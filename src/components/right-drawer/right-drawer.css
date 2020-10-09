@@ -1,0 +1,13 @@
+.right-drawer {
+    position: absolute;
+    width: 70px;
+    height: 1080px;
+    background-color: #232424;
+    right: 0;
+}
+
+.avatar {
+    width: 42px;
+    height: 42px;
+    border-radius: 100px;
+}

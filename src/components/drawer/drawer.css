@@ -1,0 +1,181 @@
+.Drawer {
+    display: flex;
+    width: 272px;
+    height: 1080px;
+    background-color: #232424;
+}
+
+.Logo {
+    width: 56px;
+    width: 56px;
+    height: 49px;
+    background-color: #151616;
+    margin-top: 37px;
+    margin-left: 24px;
+}
+
+.logo-text {
+    margin-top: 13px;
+    color: #a5a7ab;
+    font-size: 16px;
+    font-weight: 600;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+    text-align: center;
+    /* Text style for "Logo" */
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+}
+
+.title {
+    display: flex;
+    flex-direction: column;
+    margin-left: 70px;
+    margin-top: -30px;
+}
+
+.personal {
+    width: 57px;
+    height: 19px;
+    color: #ecf0f4;
+    font-family: Poppins;
+    font-size: 13px;
+    font-weight: 500;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+    text-align: left;
+    /* Text style for "Personal" */
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+}
+
+.project {
+    /* Style for "projects.c" */
+    width: 86px;
+    height: 19px;
+    color: #a5a7ab;
+    font-family: Poppins;
+    font-size: 13px;
+    font-weight: 500;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+    text-align: left;
+    /* Text style for "projects.c" */
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: column;
+    margin-top: 60px;
+}
+
+.button-active {
+    color: #ecf0f4;
+    width: 224px;
+    height: 35px;
+    border-radius: 2px;
+    background-color: #303133;
+    font-family: Poppins;
+    font-size: 13px;
+    font-weight: 600;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+}
+
+.button-active div {
+    margin-top: 8px;
+    margin-left: 14px;
+}
+
+.button {
+    width: 224px;
+    height: 35px;
+    margin-top: 7px;
+    color: #ecf0f4;
+    font-family: Poppins;
+    font-size: 13px;
+    font-weight: 600;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.button div {
+    margin-top: 8px;
+    margin-left: 14px;
+}
+
+.second-buttons {
+margin-top: 42px;
+}
+
+.buttons-title {
+    white-space: nowrap;
+    margin-left: 12px;
+    margin-bottom: 15px;
+    width: 67px;
+    height: 16px;
+    color: #a5a7ab;
+    font-family: Poppins;
+    font-size: 11px;
+    font-weight: 600;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+    text-align: left;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+    text-transform: uppercase;
+}
+
+.create-new-btn {
+    width: 113px;
+    height: 35px;
+    border-radius: 2px;
+    background-color: #046eff;
+    border: none;
+    color: #ffffff;
+    font-family: Poppins;
+    margin: 20px 0;
+}
+
+.open-btn {
+    width: 113px;
+    height: 35px;
+    border-radius: 2px;
+    background-color: #303133;
+    border: none;
+    color: #ffffff;
+    font-family: Poppins;
+}
+
+.small-logo {
+    position: absolute;
+    width: 36px;
+    height: 32px;
+    background-color: #151616;
+    bottom: -100px;
+}
+
+.small-logo-text {
+    color: #a5a7ab;
+    font-family: Poppins;
+    font-size: 10px;
+    font-weight: 600;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+    text-align: center;
+    padding-top: 9px;
+}

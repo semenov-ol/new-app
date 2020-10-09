@@ -1,0 +1,45 @@
+.content {
+    width: 345px;
+    height: 200px;
+    border-radius: 4px;
+    background-color: #0b0b0b;
+    margin-bottom: 8px;
+    margin-top: 40px;
+}
+
+.content-title {
+    width: 140px;
+    height: 19px;
+    color: #ecf0f4;
+    font-family: Poppins;
+    font-size: 13px;
+    font-weight: 500;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+    text-align: left;
+    /* Text style for "Mobile App" */
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+}
+
+.content-description {
+    height: 19px;
+    color: #a5a7ab;
+    font-family: Poppins;
+    font-size: 13px;
+    font-weight: 500;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+    text-align: left;
+    /* Text style for "Building B" */
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+}
+
+.block {
+    margin-right: 40px;
+}
